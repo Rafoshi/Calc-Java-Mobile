@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calc33</string>
+    <string name="txtResultado">Nenhum valor inserido ainda.</string>
+    <string name="txtPrimeiro">Primeiro número</string>
+    <string name="txtSegundo">Segundo número</string>
+    <string name="btn1">Soma</string>
+    <string name="btn2">Subtração</string>
+    <string name="btn3">Multiplicação</string>
+    <string name="btn4">Divisão</string>
+</resources>

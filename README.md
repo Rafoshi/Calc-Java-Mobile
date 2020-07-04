@@ -1,3 +1,3 @@
-## Calculadora-Java-Mobile 📲
+## Calculator-Java-Mobile 📲
 
-#Primeiro projeto no Android Studio
+#My first project in Android Studio
